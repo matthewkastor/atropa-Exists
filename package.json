@@ -1,0 +1,22 @@
+{
+                    
+    "name"          : "atropa-Exists",
+    "version"       : "0.1.0",
+    "main"          : "./cmd.js",
+    "description"   : "Utilities for checking the existence of files and folders.",
+    "keywords"      : ["cmd", "commandline", "exec"],
+    "homepage"      : "https://github.com/matthewkastor/atropa-Exists/",
+    "bugs"          : "https://github.com/matthewkastor/atropa-Exists/issues",
+    "author"        : {
+                        "name"      : "Matthew Kastor",
+                        "email"     : "matthewkastor@gmail.com",
+                        "url"       : "https://plus.google.com/100898583798552211130"
+    },              
+    "repository"    : {
+                        "type"      : "git",
+                        "url"       : "git://github.com/matthewkastor/atropa-Exists.git"
+    },
+    "engines"       : {
+                        "node"      : ">=0.8.14"
+    }
+}
