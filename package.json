@@ -4,7 +4,7 @@
     "version"       : "0.1.0",
     "main"          : "./atropa-Exists.js",
     "description"   : "Utilities for checking the existence of files and folders.",
-    "keywords"      : ["cmd", "commandline", "exec"],
+    "keywords"      : ["utilities", "files", "directories", "folders", "atropa"],
     "homepage"      : "https://github.com/matthewkastor/atropa-Exists/",
     "bugs"          : "https://github.com/matthewkastor/atropa-Exists/issues",
     "author"        : {
